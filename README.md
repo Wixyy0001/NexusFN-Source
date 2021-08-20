@@ -1,2 +1,3 @@
-[README.md](https://github.com/Wixyy0001/NexusFN-Source/files/7020983/README.md)
-# NexusFN-Source
+Ok so i released the menu/template source of NexusFN.
+#There is no code for aimbot or exploits
+#Code Yourself Dumbass
